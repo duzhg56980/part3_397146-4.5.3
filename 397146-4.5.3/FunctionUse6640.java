@@ -1,0 +1,6 @@
+import cn.hutool.extra.ssh.Connector;
+public class FunctionUse6640 {
+public void funcUse() {
+Connector connector = new Connector();
+}
+}
